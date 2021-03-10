@@ -1,4 +1,6 @@
-### Hi there 👋  I am a professional Data Science Engineer 📊 with more than five years of industry experience. Sometimes I may occasionally spawn a pet project that could revolutionize the world, but now - pizza 🍕
+### Hi there 👋  
+
+I am a professional Data Science Engineer 📊 with more than five years of industry experience. Sometimes I may occasionally spawn a pet project that could revolutionize the world, but now - pizza 🍕
 
 
 
