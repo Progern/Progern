@@ -9,8 +9,10 @@ I am a professional Data Science Engineer 📊 with more than five years of indu
 - 📫 How to reach me: olegmiskoo@gmail.com
 
 # 💫 Past projects
-- Real-time logistic optimization system for huge mining business
-- Computer-vision assistant for high-tec microscopes
+- Real-time logistic optimization system for huge mining business (delivery prediction and optimization, based on a set of sensor observations, backed up by data augmentation using Reccurent Neural Networks)
+- Computer-vision assistant for high-tec microscopes (automated cell segmentation and classification)
+- Intelligent assistant for operators of an off-shore oil extraction platform (process optimization and stabilization)
+- Computer-vision based analytics system for retail business (people count, hotspot detection, tracking analysis, etc.)
 
 
 
