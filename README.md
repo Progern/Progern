@@ -13,6 +13,9 @@ I am a professional Data Science Engineer 📊 with more than five years of indu
 - Computer-vision assistant for high-tec microscopes (automated cell segmentation and classification)
 - Intelligent assistant for operators of an off-shore oil extraction platform (process optimization and stabilization)
 - Computer-vision based analytics system for retail business (people count, hotspot detection, tracking analysis, etc.)
+- Generative Adversarial Networks for multi-modal seismic image enhancement (superresolution, inpainting, sharpness increase)
+- Multi-spectral water bodies segmentation using modern satellite imagery (advanced feature generation, multi-spectral information consolidation)
+  
 
 
 
